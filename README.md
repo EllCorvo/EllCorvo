@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcony Lima Ferreira Junior
+# 👨‍💻 Marcony Lima Ferreira Junior
 
 **`Desenvolvedor FullStack`**
 
